@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f67dfbb-f50e-46d2-b81e-d03d3031a344" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataType_Mar06/LAb001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataType_Mar06/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataType_Mar06/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataType_Mar06/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataType_Mar06/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataType_Mar06/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataType_Mar06/Lab007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keerti_AT_CoreJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Literal/Lab011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Literal/Lab012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Type_Casting_Mar08/Lab020.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2dL8ZIxDCAJDKZRCyltshQ3FLTY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.LAb001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab019.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab020.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Lab021">
+    <configuration name="Lab016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operator_Mar07.Lab016" />
+      <module name="Keerti_AT_CoreJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Type_Casting_Mar08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operator_Mar07.Lab018" />
+      <module name="Keerti_AT_CoreJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Type_Casting_Mar08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab019" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operator_Mar07.Lab019" />
+      <module name="Keerti_AT_CoreJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Type_Casting_Mar08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Type_Casting_Mar08.Lab020" />
+      <module name="Keerti_AT_CoreJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Type_Casting_Mar08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Type_Casting_Mar08.Lab021" />
+      <module name="Keerti_AT_CoreJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Type_Casting_Mar08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab021" />
+        <item itemvalue="Application.Lab020" />
+        <item itemvalue="Application.Lab019" />
+        <item itemvalue="Application.Lab018" />
+        <item itemvalue="Application.Lab016" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f67dfbb-f50e-46d2-b81e-d03d3031a344" name="Changes" comment="" />
+      <created>1709776056406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709776056406</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Operator_Mar07/Lab019.java</url>
+          <line>3</line>
+          <properties class="Operator_Mar07.Lab019" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
