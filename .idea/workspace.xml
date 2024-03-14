@@ -5,48 +5,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f67dfbb-f50e-46d2-b81e-d03d3031a344" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions_And_Loops/Lab034.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions_And_Loops/Lab035.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions_And_Loops/Lab036.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions_And_Loops/Lab037.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataType_Mar06/LAb001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataType_Mar06/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataType_Mar06/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataType_Mar06/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataType_Mar06/Lab005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataType_Mar06/Lab006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataType_Mar06/Lab007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Keerti_AT_CoreJAVA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Literal/Lab011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Literal/Lab012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/LAb024.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab017.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab025.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab026.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab027.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab028.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab029.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab030.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab031.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab032.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Lab033.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Type_Casting_Mar08/Lab020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Mar07/Type_Casting_Mar08/Lab021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab039.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab040.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab041.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab042.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab043.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab044.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab045.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab046.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab048.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab049.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab050.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab051.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab052.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab053.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Continue/Lab066.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Continue/Lab067.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Continue/Lab068.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Lab054.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Lab055.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Lab056.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Lab057.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Lab058.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Lab059.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Lab060.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Lab061.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Lab062.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Lab063.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Lab064.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Lab065.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/While_and_doWhile/Factorial_Lab075/Lab075.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/While_and_doWhile/Lab069.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/While_and_doWhile/Lab070.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/While_and_doWhile/Lab071.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/While_and_doWhile/Lab072.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/While_and_doWhile/Lab073.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/While_and_doWhile/Lab074.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/While_and_doWhile/Lab076.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/While_and_doWhile/Lab077.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/While_and_doWhile/Lab078.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab034.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab034.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab035.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab035.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab036.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab036.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab037.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab037.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab038.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab039.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab040.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab041.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab042.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab043.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab044.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab045.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab046.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab047.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab048.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab049.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab050.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab051.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab052.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Keerti_AT_CoreJAVA/Conditions_And_Loops/Lab034.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Keerti_AT_CoreJAVA/Conditions_And_Loops/Lab035.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Keerti_AT_CoreJAVA/Conditions_And_Loops/Lab036.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Keerti_AT_CoreJAVA/Conditions_And_Loops/Lab037.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,19 +129,59 @@
     "Application.Lab035.executor": "Run",
     "Application.Lab036.executor": "Run",
     "Application.Lab037.executor": "Run",
+    "Application.Lab038.executor": "Run",
+    "Application.Lab039.executor": "Run",
+    "Application.Lab040.executor": "Run",
+    "Application.Lab041.executor": "Debug",
+    "Application.Lab042.executor": "Run",
+    "Application.Lab043.executor": "Run",
+    "Application.Lab044.executor": "Run",
+    "Application.Lab045.executor": "Run",
+    "Application.Lab046.executor": "Run",
+    "Application.Lab047.executor": "Run",
+    "Application.Lab048.executor": "Run",
+    "Application.Lab049.executor": "Run",
+    "Application.Lab050.executor": "Run",
+    "Application.Lab051.executor": "Run",
+    "Application.Lab052.executor": "Run",
+    "Application.Lab053.executor": "Run",
+    "Application.Lab054.executor": "Run",
+    "Application.Lab055.executor": "Run",
+    "Application.Lab056.executor": "Run",
+    "Application.Lab057.executor": "Run",
+    "Application.Lab058.executor": "Run",
+    "Application.Lab059.executor": "Run",
+    "Application.Lab060.executor": "Run",
+    "Application.Lab061.executor": "Run",
+    "Application.Lab062.executor": "Run",
+    "Application.Lab063.executor": "Run",
+    "Application.Lab064.executor": "Run",
+    "Application.Lab065.executor": "Run",
+    "Application.Lab066.executor": "Run",
+    "Application.Lab068.executor": "Run",
+    "Application.Lab069.executor": "Run",
+    "Application.Lab070.executor": "Run",
+    "Application.Lab071.executor": "Run",
+    "Application.Lab072.executor": "Run",
+    "Application.Lab073.executor": "Run",
+    "Application.Lab074.executor": "Run",
+    "Application.Lab075.executor": "Run",
+    "Application.Lab076.executor": "Run",
+    "Application.Lab077.executor": "Run",
+    "Application.Lab078.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab037">
-    <configuration name="Lab033" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operator_Mar07.Lab033" />
+  <component name="RunManager" selected="Application.Lab078">
+    <configuration name="Lab074" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.While_and_doWhile.Lab074" />
       <module name="Keerti_AT_CoreJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Operator_Mar07.*" />
+          <option name="PATTERN" value="Loops.While_and_doWhile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab034" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditions_And_Loops.Lab034" />
+    <configuration name="Lab075" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.While_and_doWhile.Factorial_Lab075.Lab075" />
       <module name="Keerti_AT_CoreJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditions_And_Loops.*" />
+          <option name="PATTERN" value="Loops.While_and_doWhile.Factorial_Lab075.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab035" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditions_And_Loops.Lab035" />
+    <configuration name="Lab076" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.While_and_doWhile.Lab076" />
       <module name="Keerti_AT_CoreJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditions_And_Loops.*" />
+          <option name="PATTERN" value="Loops.While_and_doWhile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +215,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab036" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditions_And_Loops.Lab036" />
+    <configuration name="Lab077" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.While_and_doWhile.Lab077" />
       <module name="Keerti_AT_CoreJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditions_And_Loops.*" />
+          <option name="PATTERN" value="Loops.While_and_doWhile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +228,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab037" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditions_And_Loops.Lab037" />
+    <configuration name="Lab078" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.While_and_doWhile.Lab078" />
       <module name="Keerti_AT_CoreJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditions_And_Loops.*" />
+          <option name="PATTERN" value="Loops.While_and_doWhile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,11 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab037" />
-        <item itemvalue="Application.Lab036" />
-        <item itemvalue="Application.Lab035" />
-        <item itemvalue="Application.Lab034" />
-        <item itemvalue="Application.Lab033" />
+        <item itemvalue="Application.Lab078" />
+        <item itemvalue="Application.Lab077" />
+        <item itemvalue="Application.Lab076" />
+        <item itemvalue="Application.Lab075" />
+        <item itemvalue="Application.Lab074" />
       </list>
     </recent_temporary>
   </component>
@@ -232,6 +295,31 @@
           <url>file://$PROJECT_DIR$/Operator_Mar07/Lab028.java</url>
           <line>9</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab041.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab041.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab041.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab041.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab041.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
