@@ -5,71 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f67dfbb-f50e-46d2-b81e-d03d3031a344" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab038.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab039.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab040.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab041.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab042.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab043.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab044.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab045.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab046.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab048.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab049.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab050.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab051.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab052.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab053.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Continue/Lab066.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Continue/Lab067.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Continue/Lab068.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/Lab054.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/Lab055.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/Lab056.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/Lab057.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/Lab058.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/Lab059.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/Lab060.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/Lab061.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/Lab062.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/Lab063.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/Lab064.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/Lab065.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/While_and_doWhile/Factorial_Lab075/Lab075.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/While_and_doWhile/Lab069.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/While_and_doWhile/Lab070.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/While_and_doWhile/Lab071.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/While_and_doWhile/Lab072.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/While_and_doWhile/Lab073.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/While_and_doWhile/Lab074.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/While_and_doWhile/Lab076.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/While_and_doWhile/Lab077.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/While_and_doWhile/Lab078.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Lab079.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Lab080.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Lab081.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Lab082.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Lab083.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Lab084.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Lab085.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Lab086.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Lab087.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Lab088.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Lab089.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab034.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab034.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab035.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab035.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab036.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab036.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab037.java" beforeDir="false" afterPath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab037.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab038.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab039.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab040.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab041.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab042.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab043.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab044.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab045.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab046.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab047.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab048.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab049.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab050.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab051.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions_And_Loops/Lab052.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Keerti_AT_CoreJAVA/Conditions_And_Loops/Lab034.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Keerti_AT_CoreJAVA/Conditions_And_Loops/Lab035.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Keerti_AT_CoreJAVA/Conditions_And_Loops/Lab036.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Keerti_AT_CoreJAVA/Conditions_And_Loops/Lab037.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,19 +116,29 @@
     "Application.Lab076.executor": "Run",
     "Application.Lab077.executor": "Run",
     "Application.Lab078.executor": "Run",
+    "Application.Lab079.executor": "Run",
+    "Application.Lab080.executor": "Run",
+    "Application.Lab081.executor": "Debug",
+    "Application.Lab082.executor": "Run",
+    "Application.Lab083.executor": "Run",
+    "Application.Lab084.executor": "Run",
+    "Application.Lab085.executor": "Run",
+    "Application.Lab086.executor": "Run",
+    "Application.Lab087.executor": "Run",
+    "Application.Lab088.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab078">
-    <configuration name="Lab074" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.While_and_doWhile.Lab074" />
+  <component name="RunManager" selected="Application.Lab088">
+    <configuration name="Lab084" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Lab084" />
       <module name="Keerti_AT_CoreJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loops.While_and_doWhile.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab075" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.While_and_doWhile.Factorial_Lab075.Lab075" />
+    <configuration name="Lab085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Lab085" />
       <module name="Keerti_AT_CoreJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loops.While_and_doWhile.Factorial_Lab075.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab076" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.While_and_doWhile.Lab076" />
+    <configuration name="Lab086" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Lab086" />
       <module name="Keerti_AT_CoreJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loops.While_and_doWhile.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab077" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.While_and_doWhile.Lab077" />
+    <configuration name="Lab087" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Lab087" />
       <module name="Keerti_AT_CoreJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loops.While_and_doWhile.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab078" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.While_and_doWhile.Lab078" />
+    <configuration name="Lab088" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Lab088" />
       <module name="Keerti_AT_CoreJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loops.While_and_doWhile.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab078" />
-        <item itemvalue="Application.Lab077" />
-        <item itemvalue="Application.Lab076" />
-        <item itemvalue="Application.Lab075" />
-        <item itemvalue="Application.Lab074" />
+        <item itemvalue="Application.Lab088" />
+        <item itemvalue="Application.Lab087" />
+        <item itemvalue="Application.Lab086" />
+        <item itemvalue="Application.Lab085" />
+        <item itemvalue="Application.Lab084" />
       </list>
     </recent_temporary>
   </component>
@@ -320,6 +277,26 @@
           <url>file://$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab041.java</url>
           <line>42</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Arrays/Lab081.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Arrays/Lab082.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Arrays/Lab082.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Arrays/Lab082.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
