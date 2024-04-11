@@ -5,18 +5,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f67dfbb-f50e-46d2-b81e-d03d3031a344" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/Lab079.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Lab080.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Lab081.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Lab082.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Lab083.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Lab084.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Lab085.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Lab086.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Lab087.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Lab088.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Lab089.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterviewQue/PrimeNumber_Lab102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterviewQue/StringReverse_Lab103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterviewQue/StringReverse_Lab129.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Basics/Lab113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Basics/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Constructor/ATBPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Constructor/ATBPerson_Lab114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Constructor/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Constructor/BankAccount_Lab116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Constructor/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Constructor/Dog_Lab118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Constructor/ParamConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Constructor/ParamConstructor_Lab115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Constructor/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Constructor/Person_Lab117.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Inheritance/Programming_Lab146.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Problems/Immutable_Lab104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Problems/Immutable_Lab105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Problems/Immutable_Lab112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Problems/Lab089.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Problems/Lab090.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Problems/Lab091.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Problems/Lab092.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Problems/Lab093.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Problems/Lab094.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Problems/Lab095.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Problems/Lab096.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Problems/Lab097.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Problems/Lab098.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Problems/Lab099.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Problems/Lab100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Problems/Lab101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/Problems/equalKeyword_Lab106.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/StringBuilder_Buffer/Imp_Lab111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/StringBuilder_Buffer/Lab107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/StringBuilder_Buffer/Lab108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/StringBuilder_Buffer/Palindrome_Lab110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/StringBuilder_Buffer/ReverseUsingString_Lab109.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab034.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab034.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab035.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab035.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab036.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab036.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab037.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab037.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab038.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab038.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab039.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab039.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab040.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab040.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab041.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab041.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab042.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab042.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab043.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab043.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab044.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab044.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab045.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab045.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab046.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab046.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab047.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab047.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab048.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab048.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab049.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab049.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab050.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab050.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab051.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab051.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab052.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab052.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab053.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab053.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataType_Mar06/LAb001.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/DataType_Mar06/LAb001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataType_Mar06/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/DataType_Mar06/Lab002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataType_Mar06/Lab003.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/DataType_Mar06/Lab003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataType_Mar06/Lab004.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/DataType_Mar06/Lab004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataType_Mar06/Lab005.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/DataType_Mar06/Lab005.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataType_Mar06/Lab006.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/DataType_Mar06/Lab006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataType_Mar06/Lab007.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/DataType_Mar06/Lab007.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Literal/Lab011.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Literal/Lab011.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Literal/Lab012.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJava/Literal/Lab012.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Keerti_AT_CoreJAVA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Keerti_AT_CoreJAVA/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +101,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ATBPerson_Lab114.executor": "Run",
+    "Application.BankAccount_Lab116.executor": "Run",
+    "Application.Dog_Lab118.executor": "Run",
+    "Application.Immutable_Lab104.executor": "Run",
+    "Application.Immutable_Lab105.executor": "Run",
+    "Application.Immutable_Lab112.executor": "Run",
+    "Application.Imp_Lab111.executor": "Run",
     "Application.LAb001.executor": "Run",
     "Application.LAb024.executor": "Run",
     "Application.Lab003.executor": "Run",
@@ -126,19 +190,44 @@
     "Application.Lab086.executor": "Run",
     "Application.Lab087.executor": "Run",
     "Application.Lab088.executor": "Run",
+    "Application.Lab089.executor": "Run",
+    "Application.Lab090.executor": "Run",
+    "Application.Lab091.executor": "Run",
+    "Application.Lab092.executor": "Run",
+    "Application.Lab093.executor": "Run",
+    "Application.Lab094.executor": "Run",
+    "Application.Lab096.executor": "Debug",
+    "Application.Lab097.executor": "Debug",
+    "Application.Lab098.executor": "Debug",
+    "Application.Lab099.executor": "Debug",
+    "Application.Lab100.executor": "Debug",
+    "Application.Lab101.executor": "Run",
+    "Application.Lab107.executor": "Run",
+    "Application.Lab108.executor": "Run",
+    "Application.Lab113.executor": "Run",
+    "Application.Palindrome_Lab110.executor": "Run",
+    "Application.ParamConstructor_Lab115.executor": "Run",
+    "Application.Person_Lab117.executor": "Run",
+    "Application.PrimeNumber_Lab102.executor": "Run",
+    "Application.Problems.executor": "Run",
+    "Application.Programming_Lab146.executor": "Run",
+    "Application.ReverseUsingString_Lab109.executor": "Run",
+    "Application.StringReverse_Lab103.executor": "Run",
+    "Application.StringReverse_Lab129.executor": "Debug",
+    "Application.equalKeyword_Lab106.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab088">
-    <configuration name="Lab084" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Lab084" />
+  <component name="RunManager" selected="Application.Programming_Lab146">
+    <configuration name="BankAccount_Lab116" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs.Constructor.BankAccount_Lab116" />
       <module name="Keerti_AT_CoreJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="OOPs.Constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +235,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Lab085" />
+    <configuration name="Dog_Lab118" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs.Constructor.Dog_Lab118" />
       <module name="Keerti_AT_CoreJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="OOPs.Constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +248,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab086" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Lab086" />
+    <configuration name="ParamConstructor_Lab115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs.Constructor.ParamConstructor_Lab115" />
       <module name="Keerti_AT_CoreJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="OOPs.Constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +261,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab087" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Lab087" />
+    <configuration name="Person_Lab117" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs.Constructor.Person_Lab117" />
       <module name="Keerti_AT_CoreJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="OOPs.Constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,12 +274,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab088" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Lab088" />
+    <configuration name="Programming_Lab146" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs.Inheritance.Programming_Lab146" />
       <module name="Keerti_AT_CoreJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="OOPs.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,11 +289,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab088" />
-        <item itemvalue="Application.Lab087" />
-        <item itemvalue="Application.Lab086" />
-        <item itemvalue="Application.Lab085" />
-        <item itemvalue="Application.Lab084" />
+        <item itemvalue="Application.Programming_Lab146" />
+        <item itemvalue="Application.Dog_Lab118" />
+        <item itemvalue="Application.Person_Lab117" />
+        <item itemvalue="Application.BankAccount_Lab116" />
+        <item itemvalue="Application.ParamConstructor_Lab115" />
       </list>
     </recent_temporary>
   </component>
@@ -238,6 +327,42 @@
           </properties>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/OOPs/Problems/Lab097.java</url>
+          <line>3</line>
+          <properties class="OOPs.Problems.Lab097" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/OOPs/Problems/Lab097.java</url>
+          <line>8</line>
+          <properties class="OOPs.Problems.Lab097" method="print">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/OOPs/StringBuilder_Buffer/Palindrome_Lab110.java</url>
+          <line>5</line>
+          <properties class="OOPs.StringBuilder_Buffer.Palindrome_Lab110" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/OOPs/Constructor/Person_Lab117.java</url>
+          <line>3</line>
+          <properties class="OOPs.Constructor.Person_Lab117" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Operator_Mar07/Lab028.java</url>
           <line>12</line>
@@ -254,27 +379,27 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab041.java</url>
+          <url>file://$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab041.java</url>
           <line>29</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab041.java</url>
+          <url>file://$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab041.java</url>
           <line>33</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab041.java</url>
+          <url>file://$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab041.java</url>
           <line>37</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab041.java</url>
+          <url>file://$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab041.java</url>
           <line>40</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Conditions_If_IfElse_Switch/Lab041.java</url>
+          <url>file://$PROJECT_DIR$/BasicJava/Conditions_If_IfElse_Switch/Lab041.java</url>
           <line>42</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
@@ -297,6 +422,236 @@
           <url>file://$PROJECT_DIR$/Arrays/Lab082.java</url>
           <line>8</line>
           <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OOPs/Problems/Lab097.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OOPs/Problems/Lab097.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OOPs/Problems/Lab097.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OOPs/Problems/Lab098.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OOPs/Problems/Lab098.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OOPs/Problems/Lab099.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OOPs/Problems/Lab099.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OOPs/Problems/Lab099.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OOPs/Problems/Lab099.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OOPs/Problems/Lab099.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OOPs/Problems/Lab099.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OOPs/Problems/Lab099.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OOPs/Problems/Lab099.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OOPs/Problems/Lab099.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/PrimeNumber_Lab102.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/PrimeNumber_Lab102.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/PrimeNumber_Lab102.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/PrimeNumber_Lab102.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/PrimeNumber_Lab102.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/PrimeNumber_Lab102.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/PrimeNumber_Lab102.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/PrimeNumber_Lab102.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/PrimeNumber_Lab102.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/PrimeNumber_Lab102.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/PrimeNumber_Lab102.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/PrimeNumber_Lab102.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/PrimeNumber_Lab102.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/PrimeNumber_Lab102.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/PrimeNumber_Lab102.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/PrimeNumber_Lab102.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/PrimeNumber_Lab102.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/StringReverse_Lab103.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/StringReverse_Lab103.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/StringReverse_Lab103.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/StringReverse_Lab103.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/StringReverse_Lab103.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/StringReverse_Lab103.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/StringReverse_Lab103.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/StringReverse_Lab103.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/StringReverse_Lab103.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/StringReverse_Lab129.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/StringReverse_Lab129.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/StringReverse_Lab129.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/StringReverse_Lab129.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQue/StringReverse_Lab129.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OOPs/Constructor/ParamConstructor_Lab115.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="111" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
